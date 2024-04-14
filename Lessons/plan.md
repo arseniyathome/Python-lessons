@@ -1,5 +1,6 @@
  # План уроков по Python
 ## Урок 1
+<img src="Images/Markdown01.jpg" width="200" height="200">
 
 1. Pycharm
    - Настройка языка
@@ -18,9 +19,9 @@
    - Push
    - Файлы Md
 
-<img src="Images/Markdown01.jpg" width="200" height="200">
-
 ## Урок 2
+<img src="Images/multiarray.jpg" width="200" height="200">
+
 1. Объяснение массивов
 2. Многомерные массивы
 3. Задача инвертирования матрицы
