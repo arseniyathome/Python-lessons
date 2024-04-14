@@ -7,15 +7,15 @@
 2. Разбор работы с Git
    - Установка
    - Регистрация на сайте GitHub
-   - Работа командной строке
+   - Работа в командной строке
      - Запуск Cmd
      - Команда cd, dir, mkdir
-     - Работа с Far Manager 
-       - Alt-F1, Alt-F2, Tab 
-       - Навигация
-       - F7, F8
    - Pull
-   - Commit, Push
+   - Работа с Far Manager 
+     - Alt-F1, Alt-F2, Tab 
+     - Навигация
+     - F7, F8
+      - Commit, Push
    - .gitignore, __pycache__, *.pyc, _idea
    - Push
    - Файлы Md и кратко HTML
