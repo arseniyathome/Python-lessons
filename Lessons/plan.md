@@ -17,7 +17,7 @@
    - Pull
    - Commit
    - Push
-   - Файлы Md
+   - Файлы Md и кратко HTML
 
 ## Урок 2
 <img src="Images/multiarray.jpg" width="200" height="200">
