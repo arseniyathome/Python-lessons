@@ -15,7 +15,7 @@
        - Навигация
        - F7, F8
    - Pull
-   - Commit
+   - Commit, Push
    - .gitignore, __pycache__, *.pyc
    - Push
    - Файлы Md и кратко HTML
