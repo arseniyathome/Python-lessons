@@ -15,9 +15,10 @@
      - Alt-F1, Alt-F2, Tab 
      - Навигация
      - F7, F8
-      - Commit, Push
    - .gitignore, __pycache__, *.pyc, _idea
-   - Push
+   - проверить, работает ли Pycharm без Git
+   - git config
+   - Commit, Push
    - Файлы Md и кратко HTML
 
 ## Урок 2
