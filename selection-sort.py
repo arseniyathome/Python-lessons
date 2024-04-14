@@ -14,5 +14,6 @@ for i in range(n):
             min_index = j
     myArray[i], myArray[min_index] = myArray[min_index], myArray[i]
 
+
 print(myArray)
 
