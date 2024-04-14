@@ -16,6 +16,7 @@
        - F7, F8
    - Pull
    - Commit
+   - .gitignore, __pycache__, *.pyc
    - Push
    - Файлы Md и кратко HTML
 
