@@ -4,7 +4,7 @@
 ## Содержание:  
 
 1. [Урок первый.](https://github.com/arseniyathome/Python-lessons/blob/main/Lessons/Lesson%201.md) 
-   - Краткое введение в Git. -
+   - Краткое введение в Git.
    - Работа в командной строке.
    - Far manager.
    - Разметки Md и Html.
