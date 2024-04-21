@@ -4,6 +4,7 @@ import lib.random_array as random_array
 myArray = random_array.create(0,100,10)
 
 print(myArray)
+# test
 
 n = len(myArray)
 
